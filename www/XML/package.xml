@@ -1,20 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageList>
+
 <Package>
 	<Name>
-		
+		Family of Four
 	</Name>
 	<Description>
-		<string name = "firstdescription"> test description </string>
+		Dad cooks dinner. (3 meals)
 	</Description>
 	<Ingredients>
-		<string name = "firstingredients">Test</string>
+		Who knows, man....
 	</Ingredients>
 	<Price>
-		<string name = "firstprice">$1.00</string>
+		$95
 	</Price>
-	<Image>
-		<string name = "firstimage">hello1</string>
-	</Image>
 </Package>
+
+<Package>
+	<Name>
+		Empty Nesters
+	</Name>
+
+	<Description>
+		Poor meal planning can ruin a marriage. (3 meals)
+	</Description>
+
+	<Ingredients>
+		The gud stuf.
+	</Ingredients>
+
+	<Price>
+		$55
+	</Price>
+</Package>
+
+<Package>
+	<Name>
+		Date Night
+	</Name>
+
+	<Description>
+		Grab her by the Crow Peaks. (1 meal)
+	</Description>
+
+	<Ingredients>
+		Good chemistry and "love-me" eyes.
+	</Ingredients>
+
+	<Price>
+		$70
+	</Price>
+</Package>
+
 </PackageList>
