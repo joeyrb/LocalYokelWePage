@@ -4,9 +4,12 @@
 		Fuck Murray
 	</PackageName>
 	<Summary>
-		<string name="ordersummary1">Order summary test</string>
+		<string name="ordersummary1">Order sum-murray test</string>
 	</Summary>
 	<DeliveryDate>
 		<string name="deliverydate1">Devlivery date Biotch</string>
 	</DeliveryDate>
+	<Price>
+		dolla dolla billz murray
+	</Price>
 </Order>
