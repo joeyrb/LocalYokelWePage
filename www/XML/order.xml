@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+	<PackageName>
+		<string name="packagename1">PackageNameTest</string>
+	</PackageName>
+	<Summary>
+		<string name="ordersummary1">Order summary test</string>
+	</Summary>
+	<DeliveryDate>
+		<string name="deliverydate1">Devlivery date Biotch</string>
+	</DeliveryDate>
+</Order>
