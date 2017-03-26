@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Order>
-	<PackageName>
-		Fuck Murray
-	</PackageName>
-	<Summary>
-		<string name="ordersummary1">Order sum-murray test</string>
-	</Summary>
-	<DeliveryDate>
-		<string name="deliverydate1">Devlivery date Biotch</string>
-	</DeliveryDate>
-	<Price>
-		dolla dolla billz murray
-	</Price>
-</Order>
+<OrderList>
+	<Order>
+		<PackageName>
+			Family Plan
+		</PackageName>
+		<Summary>
+			Large enough for a family of four, this plan has easy options that are suitable for all tastes.  Quick, simple, and nutritious meals that suit a busy schedule and full house. 
+		</Summary>
+		<DeliveryDate>
+			Pickup: Wednesday, March 29 5:30 PM
+		</DeliveryDate>
+		<Price>
+			$95
+		</Price>
+	</Order>
+</OrderList
