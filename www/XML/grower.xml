@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GrowerList>
+
 <Grower>
 	<Name>
 		Jeremy Smith and Trish Jenkins
 	</Name>
 	<Location>
-		Cycle Farms, Spearfish Valley
+		Cycle Farms, Spearfish Valley, SD
 	</Location>
 	<Description>
 		Jeremy Smith creates beautiful and delicious things. His background is in aquatic invertebrates and ecology, travel by bicycle, cobblery and circus arts. He is interested in seed saving, building utility bicycles, and brainstorming designs for human-powered tools for small scale farms.
@@ -17,6 +18,21 @@
 	<Produce>
 		Cycle Farm is a 3 acre farm in Spearfish Valley, established in 2012.  The land is rich, deep clay loam, irrigated with water from Spearfish Creek. The farm was previously a hop field. The land also hosts an established vineyard of South Dakota bred Valiant grapes and a newly planted orchard with heritage varieties of apple, plum, apricot, and tart cherries. 
 	</Produce>
-
 </Grower>
+
+<Grower>
+	<Name>
+		Dr. Rachel Headly and Jared Capp
+	</Name>
+	<Location>
+		Best Day Farms, Spearfish, SD
+	</Location>
+	<Description>
+		Best Day Farms provides fresh, local hydroponically-grown produce. Owners Dr. Rachel Headley and Jared Capp are committed to supporting and expanding the local food economy through education and partnerships.
+	</Description>
+	<Produce>
+		Hydroponically-grown produce.
+	</Produce>
+</Grower>
+
 </GrowerList>
