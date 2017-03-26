@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Growers>
+<GrowerList>
 <Grower>
 	<Name>
 		Jeremy Smith & Trish Jenkins
@@ -8,14 +8,15 @@
 		Cycle Farms, Spearfish Valley
 	</Location>
 	<Description>
-Jeremy Smith creates beautiful and delicious things. His background is in aquatic invertebrates and ecology, travel by bicycle, cobblery and circus arts. He is interested in seed saving, building utility bicycles, and brainstorming designs for human-powered tools for small scale farms.
+		Jeremy Smith creates beautiful and delicious things. His background is in aquatic invertebrates and ecology, travel by bicycle, cobblery and circus arts. He is interested in seed saving, building utility bicycles, and brainstorming designs for human-powered tools for small scale farms.
 
-Trish Jenkins loves worm castings and unearthing garlic bulbs. She has a degree in Geology and Fluvial Geomorphology, and accordingly enjoys spending time with maps and flowing water. She is passionate about land health and conservation, and is thrilled to be growing food with her best friend.
+		Trish Jenkins loves worm castings and unearthing garlic bulbs. She has a degree in Geology and Fluvial Geomorphology, and accordingly enjoys spending time with maps and flowing water. She is passionate about land health and conservation, and is thrilled to be growing food with her best friend.
 
-"We are looking forward to stewarding this land, growing good food for our neighbors, and helping to build an innovative, collaborative local food system in Spearfish and the northern Black Hills" - Jeremy Smith
+		"We are looking forward to stewarding this land, growing good food for our neighbors, and helping to build an innovative, collaborative local food system in Spearfish and the northern Black Hills" - Jeremy Smith
 	</Description>
 	<Produce>
-Cycle Farm is a 3 acre farm in Spearfish Valley, established in 2012.  The land is rich, deep clay loam, irrigated with water from Spearfish Creek. The farm was previously a hop field. The land also hosts an established vineyard of South Dakota bred Valiant grapes and a newly planted orchard with heritage varieties of apple, plum, apricot, and tart cherries. 
+		Cycle Farm is a 3 acre farm in Spearfish Valley, established in 2012.  The land is rich, deep clay loam, irrigated with water from Spearfish Creek. The farm was previously a hop field. The land also hosts an established vineyard of South Dakota bred Valiant grapes and a newly planted orchard with heritage varieties of apple, plum, apricot, and tart cherries. 
 	</Produce>
+
 </Grower>
-</Growers>
+</GrowerList>
