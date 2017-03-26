@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package>
+	<Name>
+		<string name = "firstname">Test</string>
+	</Name>
+	<Description>
+		<string name = "firstdescription"> test description </string>
+	</Description>
+	<Ingredients>
+		<string name = "firstingredients">Test</string>
+	</Ingredients>
+	<Price>
+		<string name = "firstprice">$1.00</string>
+	</Price>
+	<Image>
+		<string name = "firstimage">hello1</string>
+	</Image>
+</Package>
