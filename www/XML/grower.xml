@@ -35,4 +35,20 @@
 	</Produce>
 </Grower>
 
+<Grower>
+	<Name>
+		Mike Clark and Kristen Bell
+	</Name>
+	<Location>
+		Liberty Farm, Beulah, WY
+	</Location>
+	<Description>
+		Liberty Farms strives for sustainable farming and true liberty from monopolized agriculture.  Specializing in farm fresh eggs and produce varieties chosen by the land, Liberty Farms offers freedom and consciousness. 
+				Liberty Farms - Proclaim Liberty 
+	</Description>
+	<Produce>
+		Eggs and produce.
+	</Produce>
+</Grower>
+
 </GrowerList>
